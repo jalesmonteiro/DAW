@@ -8,5 +8,6 @@
     <a href="3-Operadores/index.php">3 Operadores</a><br/>
     <a href="4-Comentarios/index.php">4 Comentários</a><br/>
     <a href="5-Saida/index.php">5 Saida</a><br/>
+    <a href="7-Vetores-e-matrizes/index.php">7 Vetores e matrizes</a><br/>
   </body>
 </html>
