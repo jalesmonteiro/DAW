@@ -8,7 +8,7 @@
 
       print('<b>Oi Islânio!</b><br/>');
 
-      $vetor = [1,2,3,4,5];
+      $vetor = [1,"2",3.5,4,5];
 
       var_dump($vetor);
       echo '<br/>';
